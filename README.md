@@ -1,70 +1,58 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center" style="border-bottom: none;">Venus INternational</h1>
+<h3 align="center">This is official website of venus international. We have used HTML, CSS, Javascript, Node.js, Mongoose and MongoDB to achieve this.</h3>
 
-## Available Scripts
+# Technology We Used :computer: 
 
-In the project directory, you can run:
+1. HTML5
+2. CSS3
+3. JavaScript
+4. node.js
+6. MongoDB
 
-### `npm start`
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://akashpawardev.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashpawar23/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Instructions to Run the Code 
 
-### `npm test`
+If you want to run the latest code from git, here's how to get started:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone the code:
 
-### `npm run build`
+        https://github.com/akashpawardev/venus-react.git
+        cd venus-react
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. Install the node-red dependencies
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+        npm install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. Create .env file with following variables
 
-### `npm run eject`
+        PORT = 4444
+        DB = "Insert your mongodb connection url"
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+4. Run
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+        npm start
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+5.  open your browser and visit
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+        localhost:4444
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<h2>Project Screenshots:</h2>
 
-### Code Splitting
+1. HomePage
+<img src="https://github.com/akashpawardev/venus/blob/master/public/images/website1.png" alt="project-screenshot" >
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<img src="https://github.com/akashpawardev/venus/blob/master/public/images/website2.png" alt="project-screenshot" >
 
-### Analyzing the Bundle Size
+2. Gallery
+<img src="https://github.com/akashpawardev/venus/blob/master/public/images/website3.png" alt="project-screenshot" >
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+3. About Page
+<img src="https://github.com/akashpawardev/venus/blob/master/public/images/website4.png" alt="project-screenshot" >
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
