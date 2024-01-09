@@ -10,7 +10,9 @@ import Footer from '../components/Footer';
 
 
 export default class Home extends Component {
-    componentDidMount () {
+    componentDidMount() {
+        let nav_items1 = document.getElementById("i1");
+        nav_items1.style.color = "#43A047";
         document.title = 'Venus International'
     }
 
@@ -27,7 +29,9 @@ export default class Home extends Component {
                     <AboutWork />
                     <PreImg />
                 </main>
-                <Footer />
+                <footer>
+                    <Footer />
+                </footer>
             </>
         )
     }

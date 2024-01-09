@@ -263,7 +263,7 @@ body::-webkit-scrollbar {
   height: 20rem;
   background: linear-gradient(to right, #434343, #000000);
 }
-footer{
+.foot{
   max-width: 1320px;
   margin: 0 auto;
   height: 100%;
@@ -493,7 +493,7 @@ footer{
       color: gray;
       font-size: 2rem;
   }
-  .btn-green {
+  .btn-dis {
       display: none;
   }    
   .banner3_section {

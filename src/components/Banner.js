@@ -25,7 +25,7 @@ export default class Banner extends Component {
                                 history have long mused on the possibility of small living – be it in a tiny house, a container
                                 home, or even a hobbit-hole. Here are some of the greatest quotes assembled by some of the most
                                 prestigious writers, thinkers, and wordsmiths throughout history on the subject.</p>
-                            <button className="btn btn-green"><a style={{textDecoration: "none", color: "white"}}
+                            <button className="btn btn-green btn-dis"><a style={{textDecoration: "none", color: "white"}}
                                 href="#display_section">Click here</a></button>
                         </div>
                     </div>

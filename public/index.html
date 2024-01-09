@@ -3,19 +3,18 @@
 
 <head>
   <meta charset="utf-8" />
-  <link rel="icon" href="%PUBLIC_URL%/images/logo/favicon.ico" />
+  <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="theme-color" content="#000000" />
   <meta name="description" content="Web site created using create-react-app" />
-  <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="preload stylesheet"
     integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
   <link rel="preload" as="image" href="/src/images/Venus_logo.webp">
-  <link rel="preload" as="image" href="/src/images/st.webp">
+  <!-- <link rel="preload" as="image" href="/src/images/st.webp">
   <link rel="preload" as="image" href="/src/images/dis-2.webp">
   <link rel="preload" as="image" href="/src/images/sh-1.webp">
   <link rel="preload" as="image" href="/src/images/in/in-1.webp">
-  <link rel="preload" as="image" href="/src/images/sh-2.webp">
+  <link rel="preload" as="image" href="/src/images/sh-2.webp"> -->
   <title>Venus International</title>
 </head>
 
@@ -24,11 +23,12 @@
   <div id="root"></div>
 
 
-  <script src="%PUBLIC_URL%/js/fonta.js" crossorigin="anonymous"></script>
+  <script src="%PUBLIC_URL%/js/fonta.js" crossorigin="anonymous" async></script>
+  <script src="%PUBLIC_URL%/js/bootstrap.js" crossorigin="anonymous" defer></script>
   <script src="%PUBLIC_URL%/js/filter.js" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
-    integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
-    crossorigin="anonymous"></script>
+  <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+  integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+  crossorigin="anonymous"></script> -->
   <script>
     $(document).ready(function () {
       // Filter buttons click event

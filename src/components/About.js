@@ -26,7 +26,7 @@ export default class About extends Component {
                                         We offer wide range of products from Homes, Offices, Farm House’s, Resorts etc. In
                                         Short that’s easy to put together, eco friendly and durable.
                                     </p>
-                                    <button className="btn btn-green mt-4 py-2 "><Link style={{textDecoration: "none", color: "white"}}
+                                    <button className="btn btn-green mt-4 py-2 btn-dis"><Link style={{textDecoration: "none", color: "white"}}
                                             to="/contact">Contact us</Link></button>
                                 </div>
                                 <div className="col-md-6 text-end height-100 b3-py1">

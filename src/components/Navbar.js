@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { BrowserRouter, Routes, Route,Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import logo from "../images/Venus_logo.webp"
 
 export default class navbar extends Component {
@@ -24,7 +24,8 @@ export default class navbar extends Component {
                                     <Link className="nav-link" id="i2" aria-current="page" to="/gallery">Gallery</Link>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="nav-link" id="i3" aria-current="page" href="#about_us_section">About</a>
+                                    {/* <Link className="nav-link" id="i3" aria-current="page" href="#about_us_section">About</Link> */}
+                                    {/* <Link className="nav-link" id="i3" aria-current="page" to="/#about_us_section">About</Link> */}
                                 </li>
                                 <li className="nav-item">
                                     <Link className="nav-link" id="i4" aria-current="page" to="/contact">Contact</Link>

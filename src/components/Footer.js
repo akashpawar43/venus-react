@@ -5,7 +5,7 @@ export default class Footer extends Component {
     render() {
         return (
             <section id="contact_us_section" className="footer-section">
-                <footer>
+                <div className='foot'>
                     <div className="container cont5">
                         <div className="cont6">
                             <div className="foot-png-cont">
@@ -48,7 +48,7 @@ export default class Footer extends Component {
                             </div>
                         </div>
                     </div>
-                </footer>
+                </div>
                 <div className="row foot-right">
                     <div className="col-md-12 py-1 text-center" style={{maxWidth: "1320px",margin: "0 auto",borderTop: "1px solid #726969"}}>
                         <p>&copy; 2023 Venus Internationals. All rights reserved.</p>

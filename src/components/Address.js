@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import "../contact.css";
 
 
 export default class Address extends Component {
@@ -22,13 +21,13 @@ export default class Address extends Component {
                             <p className="pb-2" style={ftSize}><strong>Email:</strong> info@venusinternationals.com
                             </p>
                             <div className="social-icons pb-4">
-                                <a href="https://www.facebook.com/example" target="_blank"><i
+                                <a href="https://www.facebook.com/example" rel="noreferrer noopener" target="_blank"><i
                                     className="fab fa-facebook-f fa-lg px-1"></i></a>
-                                <a href="https://www.twitter.com/example" target="_blank"><i
+                                <a href="https://www.twitter.com/example" rel="noreferrer noopener" target="_blank"><i
                                     className="fab fa-twitter fa-lg px-1"></i></a>
-                                <a href="https://www.linkedin.com/in/example" target="_blank"><i
+                                <a href="https://www.linkedin.com/in/example" rel="noreferrer noopener" target="_blank"><i
                                     className="fab fa-linkedin-in fa-lg px-1"></i></a>
-                                <a href="https://www.instagram.com/example" target="_blank"><i
+                                <a href="https://www.instagram.com/example" rel="noreferrer noopener" target="_blank"><i
                                     className="fab fa-instagram fa-lg px-1"></i></a>
                             </div>
                         </div>
