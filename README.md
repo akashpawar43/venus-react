@@ -46,8 +46,8 @@ If you want to run the latest code from git, here's how to get started:
 <h2>Project Screenshots:</h2>
 
 1. HomePage
-<span><img src="https://github.com/akashpawardev/venus/blob/master/public/images/website1.png" alt="project-screenshot" ></span>
 
+<span><img src="https://github.com/akashpawardev/venus/blob/master/public/images/website1.png" alt="project-screenshot" ></span>
 <span><img src="https://github.com/akashpawardev/venus/blob/master/public/images/website2.png" alt="project-screenshot" ></span>
 
 2. Gallery
