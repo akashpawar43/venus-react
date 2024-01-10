@@ -9,7 +9,7 @@ export default class navbar extends Component {
                 <nav className="navbar navbar-expand-lg py-2 bg-dark navbar-dark">
                     <div className="container">
                         <a className="navbar-brand" aria-label="Home Page" href="/">
-                            <img src={logo} alt="" width="60" height="30" /></a>
+                            <img src={logo} alt="logo" width="60" height="30" /></a>
                         <button className="navbar-toggler" type="button" data-bs-toggle="collapse"
                             data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                             aria-label="Toggle navigation">
