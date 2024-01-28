@@ -28,18 +28,13 @@ If you want to run the latest code from git, here's how to get started:
 
         npm install
 
-3. Create .env file with following variables
-
-        PORT = 4444
-        DB = "Insert your mongodb connection url"
-
-4. Run
+3. Run
 
         npm start
 
-5.  open your browser and visit
+4.  open your browser and visit
 
-        localhost:4444
+        localhost:3000
 
 
 
