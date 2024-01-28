@@ -4,11 +4,11 @@
 
 # Technology We Used :computer: 
 
-1. HTML5
-2. CSS3
-3. JavaScript
-4. node.js
-6. MongoDB
+1. React.js
+2. Node.js
+3. HTML5
+4. CSS3
+5. JavaScript
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://akashpawar43.netlify.app/)
