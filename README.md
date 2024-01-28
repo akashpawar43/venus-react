@@ -11,7 +11,7 @@
 6. MongoDB
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://akashpawardev.netlify.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://akashpawar43.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashpawar23/)
 
 
@@ -21,7 +21,7 @@ If you want to run the latest code from git, here's how to get started:
 
 1. Clone the code:
 
-        https://github.com/akashpawardev/venus-react.git
+        https://github.com/akashpawar43/venus-react.git
         cd venus-react
 
 2. Install the node-red dependencies
@@ -47,18 +47,18 @@ If you want to run the latest code from git, here's how to get started:
 
 1. HomePage
 
-<img src="https://github.com/akashpawardev/venus-react/blob/master/public/localhost_3000_.png" alt="project-screenshot" >
+<img src="https://github.com/akashpawar43/venus-react/blob/master/public/localhost_3000_.png" alt="project-screenshot" >
 
 2. Gallery
 <img src="https://github.com/akashpawar43/venus-react/blob/master/public/localhost_3000_1.png" alt="project-screenshot" >
 
 3. About Page
-<img src="https://github.com/akashpawardev/venus-react/blob/master/public/localhost_3000_2.png" alt="project-screenshot" >
+<img src="https://github.com/akashpawar43/venus-react/blob/master/public/localhost_3000_2.png" alt="project-screenshot" >
 
 <h2>Mobile View</h2>
 
-<span><img src="https://github.com/akashpawardev/venus-react/blob/master/public/localhost_3000_(iPhone 14 Pro Max).png" alt="project-screenshot" ></span>
-<span><img src="https://github.com/akashpawardev/venus-react/blob/master/public/localhost_3000_(iPhone 14 Pro Max)1.png" alt="project-screenshot" ></span>
-<span><img src="https://github.com/akashpawardev/venus-react/blob/master/public/localhost_3000_(iPhone 14 Pro Max)2.png" alt="project-screenshot" ></span>
+<span><img src="https://github.com/akashpawar43/venus-react/blob/master/public/localhost_3000_(iPhone 14 Pro Max).png" alt="project-screenshot" ></span>
+<span><img src="https://github.com/akashpawar43/venus-react/blob/master/public/localhost_3000_(iPhone 14 Pro Max)1.png" alt="project-screenshot" ></span>
+<span><img src="https://github.com/akashpawar43/venus-react/blob/master/public/localhost_3000_(iPhone 14 Pro Max)2.png" alt="project-screenshot" ></span>
 
 
