@@ -47,18 +47,18 @@ If you want to run the latest code from git, here's how to get started:
 
 1. HomePage
 
-<img src="https://github.com/akashpawardev/venus/blob/master/public/localhost_3000_.png" alt="project-screenshot" >
+<img src="https://github.com/akashpawardev/venus-react/blob/master/public/localhost_3000_.png" alt="project-screenshot" >
 
 2. Gallery
-<img src="https://github.com/akashpawardev/venus/blob/master/public/localhost_3000_1.png" alt="project-screenshot" >
+<img src="https://github.com/akashpawar43/venus-react/blob/master/public/localhost_3000_1.png" alt="project-screenshot" >
 
 3. About Page
-<img src="https://github.com/akashpawardev/venus/blob/master/public/localhost_3000_2.png" alt="project-screenshot" >
+<img src="https://github.com/akashpawardev/venus-react/blob/master/public/localhost_3000_2.png" alt="project-screenshot" >
 
 <h2>Mobile View</h2>
 
-<span><img src="https://github.com/akashpawardev/venus/blob/master/public/localhost_3000_(iPhone 14 Pro Max).png" alt="project-screenshot" ></span>
-<span><img src="https://github.com/akashpawardev/venus/blob/master/public/localhost_3000_(iPhone 14 Pro Max)1.png" alt="project-screenshot" ></span>
-<span><img src="https://github.com/akashpawardev/venus/blob/master/public/localhost_3000_(iPhone 14 Pro Max)2.png" alt="project-screenshot" ></span>
+<span><img src="https://github.com/akashpawardev/venus-react/blob/master/public/localhost_3000_(iPhone 14 Pro Max).png" alt="project-screenshot" ></span>
+<span><img src="https://github.com/akashpawardev/venus-react/blob/master/public/localhost_3000_(iPhone 14 Pro Max)1.png" alt="project-screenshot" ></span>
+<span><img src="https://github.com/akashpawardev/venus-react/blob/master/public/localhost_3000_(iPhone 14 Pro Max)2.png" alt="project-screenshot" ></span>
 
 
